@@ -1,0 +1,39 @@
+# Claude Code files
+.claude/
+*.claude
+.claude_history
+
+# IDE
+.idea/
+.vscode/
+.metadata/
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+bin/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
